@@ -77,3 +77,5 @@ Para popular a tabela é proposto os dados da do arquivo [data](/src/data/).
 Essas consultas simples permitem que a escola acesse informações cruciais e tome decisões informadas em relação ao desempenho dos alunos, disponibilidade de professores e muito mais.
 
 ## Referências 
+1. [Beatriz Magalhães](https://cursos.alura.com.br/user/beatriz280197)
+2. [SQLite online: conhecendo instruções SQL](https://cursos.alura.com.br/course/sqlite-online-conhecendo-instrucoes-sql)
