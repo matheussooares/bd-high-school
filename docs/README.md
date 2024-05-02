@@ -8,6 +8,17 @@ Dar os primeiros passos para configurar e usar o  banco de dados. Para tanto, é
 - [ ] Alimentar as tabelas com os dados fornecidos
 - [ ] realizar consultas
 
+## Ferramentas e Tecnologias
+O projeto utiliza a linguagem SQL. Linguagem que consegue fazer consultas em bancos de dados relacionais.
+
+Para tal, é escolhido o SGBD [SQLite Online](sqliteonline.com), que tem a vantagem de não precisar de instalação, como a maioria dos SGBDs que exigem um trabalho para fazer instalação.
+
+<div align="center">
+
+  ![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=07405E)
+
+</div>
+
 ## Estrutura do banco de dados
 
 Para estrutura do banco de dados, é criando as tabelas para armazenar informações específicas. Bem como, é povoado essa tabela com dados da escola.
